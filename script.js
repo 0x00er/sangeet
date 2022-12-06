@@ -1,4 +1,4 @@
-//play button thing 
+
 var mySong = document.getElementById("mySong");
 var icon = document.getElementById("icon")
 
