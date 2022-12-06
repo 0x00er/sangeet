@@ -13,12 +13,7 @@
   <p align="center">
     An awesome website to play songs!
     <br />
-    <a href="https://musicalsmth.ga/">View Demo</a>
-    ·
-    <a href="https://github.com/TEDDY6969/Music-Website/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/TEDDY6969/Music-Website/issues">Request Feature</a>
-  </p>
+      </p>
 </div>
 
 
@@ -42,8 +37,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+    
 </details>
 
 
@@ -92,7 +86,7 @@ _Follow these steps if you are complete beginner._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/TEDDY6969/Music-Website.git
+   git clone https://github.com/Exxncatin/sangeet.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,24 +123,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@soonshine24](https://twitter.com/soonshine24) 
+Twitter - [@exxncatin](https://twitter.com/exxncatin) 
 
-Project Link: [https://github.com/TEDDY6969/Music-Website](https://github.com/TEDDY6969/Music-Website)
-
-Demo of project: [musicalsmth.ga](https://musicalsmth.ga/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Project Link: [https://github.com/Exxncatin/sangeet](https://github.com/TEDDY6969/Music-Website)
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-Firstly, I would like to thank [Bhavya Khurana](https://github.com/TheNewC0der-24) for all the help and writing the base of project.
-Secondly, I have downloaded music from Deezer website and right on the content goes to their respective owners.
-And last but not the least, thanks to w3 schools, geeksforgeek. 
-* [Bhavya Khurana ](https://github.com/TheNewC0der-24/)
-* [Deezer](https://www.deezer.com)
-* [TEDDY6969](https://github.com/TEDDY6969/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
